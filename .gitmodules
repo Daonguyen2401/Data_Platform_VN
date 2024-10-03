@@ -1,3 +1,4 @@
 [submodule "Charts"]
 	path = Charts
 	url = https://github.com/Daonguyen2401/Charts
+	branch = main
